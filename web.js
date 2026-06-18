@@ -36,16 +36,16 @@ const movies = [
     review:
       "Fede Álvarez strips the franchise back to raw tension and darkness. Claustrophobic, brutal, and genuinely terrifying in its best passages."
   },
-  {
+ {
     id: 4,
-    title: "Past Lives",
+    title: "The Shawshank Redemption",
     genre: "Drama",
-    year: 2023,
-    duration: "106 min",
-    rating: 8.8,
-    poster: "https://image.tmdb.org/t/p/w500/k3waqVXSnYrEoOPbMKbBVxRLfDr.jpg",
+    year: 1994,
+    duration: "142 min",
+    rating: 9.3,
+    poster: "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
     review:
-      "A quiet devastation. Celine Song's debut lingers in your chest long after the credits roll — a love story about the roads not taken."
+      "A timeless story of hope and resilience. Frank Darabont's adaptation of Stephen King's novella remains one of cinema's most beloved and enduring masterpieces."
   },
   {
     id: 5,
@@ -93,14 +93,14 @@ const movies = [
   },
   {
     id: 9,
-    title: "The Holdovers",
+    title: "The Hangover",
     genre: "Comedy",
-    year: 2023,
-    duration: "133 min",
-    rating: 8.6,
-    poster: "https://image.tmdb.org/t/p/w500/VHmqSaMyR7ZlLFnHUGxnmvv4Po.jpg",
+    year: 2009,
+    duration: "100 min",
+    rating: 8.1,
+    poster: "https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
     review:
-      "Paul Giamatti at his most magnificent. A warm, funny, and quietly devastating film that takes its time and earns every emotional beat."
+      "A riotous, brilliantly constructed comedy. The Wolf Pack's chaotic Vegas night is endlessly rewatchable — sharp writing, perfect chemistry, and one unforgettable tiger."
   },
   {
     id: 10,
@@ -126,14 +126,14 @@ const movies = [
   },
   {
     id: 12,
-    title: "The Banshees of Inisherin",
+    title: "The Godfather",
     genre: "Drama",
-    year: 2022,
-    duration: "114 min",
-    rating: 8.2,
-    poster: "https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOiMV7hgS.jpg",
+    year: 1972,
+    duration: "175 min",
+    rating: 9.2,
+    poster: "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsLLeWorkmIOm.jpg",
     review:
-      "McDonagh at his most melancholic. A film about a broken friendship that becomes, without warning, a meditation on meaning, loss, and stubbornness."
+      "Coppola's magnum opus redefined what cinema could be. A sweeping saga of power, family, and corruption that remains utterly untouchable more than fifty years on."
   }
 ];
 
