@@ -131,7 +131,7 @@ const movies = [
     year: 1972,
     duration: "175 min",
     rating: 9.2,
-    poster: "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsLLeWorkmIOm.jpg",
+    poster: "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
     review:
       "Coppola's magnum opus redefined what cinema could be. A sweeping saga of power, family, and corruption that remains utterly untouchable more than fifty years on."
   }
