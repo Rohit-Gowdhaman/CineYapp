@@ -36,16 +36,16 @@ const movies = [
     review:
       "Fede Álvarez strips the franchise back to raw tension and darkness. Claustrophobic, brutal, and genuinely terrifying in its best passages."
   },
-  {
+ {
     id: 4,
     title: "The Shawshank Redemption",
     genre: "Drama",
-    year: 2023,
-    duration: "142 minutes",
+    year: 1994,
+    duration: "142 min",
     rating: 9.3,
-    poster: "C:\Rohit intern\shawshank_redemption_ver1.jpg",
+    poster: "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
     review:
-      "The Shawshank Redemption (1994) is a profoundly moving masterpiece about hope, friendship, and resilience. Adapted from a Stephen King novella, it follows banker Andy Dufresne (Tim Robbins), who is wrongfully imprisoned for murder, and his enduring bond with fellow inmate Red (Morgan Freeman)"
+      "A timeless story of hope and resilience. Frank Darabont's adaptation of Stephen King's novella remains one of cinema's most beloved and enduring masterpieces."
   },
   {
     id: 5,
