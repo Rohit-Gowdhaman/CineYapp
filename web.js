@@ -38,14 +38,14 @@ const movies = [
   },
   {
     id: 4,
-    title: "Past Lives",
+    title: "The Shawshank Redemption",
     genre: "Drama",
     year: 2023,
-    duration: "106 min",
-    rating: 8.8,
-    poster: "https://image.tmdb.org/t/p/w500/k3waqVXSnYrEoOPbMKbBVxRLfDr.jpg",
+    duration: "142 minutes",
+    rating: 9.3,
+    poster: "C:\Rohit intern\shawshank_redemption_ver1.jpg",
     review:
-      "A quiet devastation. Celine Song's debut lingers in your chest long after the credits roll — a love story about the roads not taken."
+      "The Shawshank Redemption (1994) is a profoundly moving masterpiece about hope, friendship, and resilience. Adapted from a Stephen King novella, it follows banker Andy Dufresne (Tim Robbins), who is wrongfully imprisoned for murder, and his enduring bond with fellow inmate Red (Morgan Freeman)"
   },
   {
     id: 5,
